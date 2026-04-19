@@ -71,11 +71,71 @@ sudo python3 topology.py
 
 
 
-<img width="1317" height="981" alt="WhatsApp Image 2026-04-19 at 12 06 12" src="https://github.com/user-attachments/assets/a31208a7-1246-4a5b-86bf-ee988fb6807e" />
 
 
 
-<img width="1317" height="981" alt="WhatsApp Image 2026-04-19 at 12 06 12" src="https://github.com/user-attachments/assets/2d48202b-3cf2-41e9-970a-4a712733a920" />
+
+
+
+
+
+
+
+
+
+<img width="1320" height="986" alt="WhatsApp Image 2026-04-19 at 12 06 17" src="https://github.com/user-attachments/assets/458e34bc-722c-436c-811a-2603871da857" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1316" height="959" alt="WhatsApp Image 2026-04-19 at 12 06 21" src="https://github.com/user-attachments/assets/698c8062-bb66-469d-9664-d7c04cd92d76" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\
 
 
 
