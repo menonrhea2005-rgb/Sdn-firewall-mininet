@@ -64,3 +64,20 @@ sudo python3 topology.py
 ### Testing
 
 **Test 1 - Allowed traffic (h1 to h2):**
+
+#screenshots 
+
+<img width="1317" height="981" alt="WhatsApp Image 2026-04-19 at 12 06 12" src="https://github.com/user-attachments/assets/a3077505-282d-4f85-a37a-83674cdc4f42" />
+
+
+
+<img width="1317" height="981" alt="WhatsApp Image 2026-04-19 at 12 06 12" src="https://github.com/user-attachments/assets/a31208a7-1246-4a5b-86bf-ee988fb6807e" />
+
+
+
+<img width="1317" height="981" alt="WhatsApp Image 2026-04-19 at 12 06 12" src="https://github.com/user-attachments/assets/2d48202b-3cf2-41e9-970a-4a712733a920" />
+
+
+
+
+
